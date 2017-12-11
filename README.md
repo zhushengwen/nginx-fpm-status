@@ -15,6 +15,7 @@ Use it freely on your own servers. If you want to do something with it commercia
 Developed by NM Design Studio - www.nmdesign.rs
 
 Command:
+- cd ~
 - git clone https://github.com/zhushengwen/nginx-fpm-status.git
 - cd nginx-fpm-status
 - php -S localhost:8000
